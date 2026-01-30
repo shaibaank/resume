@@ -20,3 +20,9 @@ https://shaibaank.github.io/resume/
 1. Clone the repository:
    ```bash
    git clone https://github.com/shaibaank/resume.git
+
+
+resume-project/
+├── index.html
+├── README.md
+└── screenshots/
